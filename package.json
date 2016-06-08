@@ -1,0 +1,26 @@
+{
+  "name": "prueba-gh-pages",
+  "version": "1.0.0",
+  "description": "Esto es una prueba de gulp-gh-pages",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gattilea/prueba-gh-pages.git"
+  },
+  "author": "Leandro Gatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gattilea/prueba-gh-pages/issues"
+  },
+  "homepage": "https://github.com/gattilea/prueba-gh-pages#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-minify": "0.0.12"
+  }
+}
